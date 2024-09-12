@@ -1,141 +1,18 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-    
-        
-    
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"  xml:lang="en-us"  xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        
-            
-
-            
-                
-            
-
-            
-                <link href="http://localhost:1313/post/" rel="self" type="text/html"/>
-            
-        
-            
-
-            
-
-            
-                <link href="http://localhost:1313/post/rss.xml" rel="alternate" type="application/rss+xml"/>
-            
-        
-
-        
-
-        
-
-        <description>Recent content</description>
-
-        
-            <language>en-us</language>
-        
-
-        
-
-        <link>http://localhost:1313/post/</link>
-
-        
-
-        <title>Posts · My New Hugo Site</title>
-
-        
-
-        
-            <item>
-                
-                
-                
-                
-                
-                
-                
-
-                
-
-                
-
-                
-
-                
-
-                
-                
-
-                
-
-                
-
-                
-                    <description><![CDATA[<h1 id="welcome-to-my-first-post">Welcome to My First Post</h1>
-<p>Hello, everyone! 👋 This is my first post, and I&rsquo;m excited to share my journey with you. In this post, I will cover a few things:</p>
-<h2 id="what-i-plan-to-share">What I Plan to Share</h2>
-<ol>
-<li><strong>Technology Tips</strong>: From programming to the latest tech trends.</li>
-<li><strong>Project Updates</strong>: Insights on ongoing projects, including:
-<ul>
-<li>Automatic License Plate Recognition (ALPR)</li>
-<li>Data Analysis with Large Language Models</li>
-</ul>
-</li>
-<li><strong>Personal Growth</strong>: Sharing experiences and lessons learned along the way.</li>
-</ol>
-<h2 id="a-quote-to-inspire">A Quote to Inspire</h2>
-<blockquote>
-<p>&ldquo;The only way to do great work is to love what you do.&rdquo; – Steve Jobs</p>
-</blockquote>
-<h2 id="stay-tuned">Stay Tuned!</h2>
-<p>Feel free to leave your thoughts or suggestions in the comments below. Let&rsquo;s embark on this exciting journey together! 🚀</p>
-<hr>
-<p>Thank you for reading! 🙏</p>
-]]></description>
-                
-
-                <guid isPermaLink="false">tag:localhost:1313,0001-01-01:/post/first-post/</guid>
-
-                
-                    <link>http://localhost:1313/post/first-post/</link>
-                
-
-                
-                    <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-                
-
-                
-            </item>
-        
-    </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>/post/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="/post/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/post/first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/first-post/</guid>
+      <description>Welcome to My First Post Hello, everyone! 👋 This is my first post, and I&amp;rsquo;m excited to share my journey with you. In this post, I will cover a few things:&#xA;What I Plan to Share Technology Tips: From programming to the latest tech trends. Project Updates: Insights on ongoing projects, including: Automatic License Plate Recognition (ALPR) Data Analysis with Large Language Models Personal Growth: Sharing experiences and lessons learned along the way.</description>
+    </item>
+  </channel>
 </rss>
