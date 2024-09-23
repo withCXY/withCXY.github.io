@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/post/first-post/</loc>
+    <loc>http://withCXY.github.io/post/first-post/</loc>
   </url><url>
-    <loc>http://localhost:1313/post/second-post/</loc>
+    <loc>http://withCXY.github.io/post/second-post/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://withCXY.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://withCXY.github.io/</loc>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>http://withCXY.github.io/post/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://withCXY.github.io/tags/</loc>
   </url>
 </urlset>
