@@ -46,7 +46,7 @@
             
 
             
-                <link href="http://withCXY.github.io/" rel="self" type="text/html"/>
+                <link href="http://localhost:1313/" rel="self" type="text/html"/>
             
         
             
@@ -54,7 +54,7 @@
             
 
             
-                <link href="http://withCXY.github.io/rss.xml" rel="alternate" type="application/rss+xml"/>
+                <link href="http://localhost:1313/rss.xml" rel="alternate" type="application/rss+xml"/>
             
         
 
@@ -70,7 +70,7 @@
 
         
 
-        <link>http://withCXY.github.io/</link>
+        <link>http://localhost:1313/</link>
 
         
 
@@ -110,10 +110,10 @@
 ]]></description>
                 
 
-                <guid isPermaLink="false">tag:withCXY.github.io,0001-01-01:/post/second-post/</guid>
+                <guid isPermaLink="false">tag:localhost:1313,0001-01-01:/post/second-post/</guid>
 
                 
-                    <link>http://withCXY.github.io/post/second-post/</link>
+                    <link>http://localhost:1313/post/second-post/</link>
                 
 
                 
@@ -172,10 +172,10 @@
 ]]></description>
                 
 
-                <guid isPermaLink="false">tag:withCXY.github.io,0001-01-01:/post/first-post/</guid>
+                <guid isPermaLink="false">tag:localhost:1313,0001-01-01:/post/first-post/</guid>
 
                 
-                    <link>http://withCXY.github.io/post/first-post/</link>
+                    <link>http://localhost:1313/post/first-post/</link>
                 
 
                 
